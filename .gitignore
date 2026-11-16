@@ -15,6 +15,7 @@ venv/
 
 # Mage runtime and local state
 mage_data/
+default_repo/
 iris_project/.file_versions/
 iris_project/.ssh_tunnel/
 
